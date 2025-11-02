@@ -1,0 +1,26 @@
+.footer-item {
+  margin-bottom: 20px;
+}
+
+.footer-item li {
+  list-style: none;
+  margin-bottom: 15px;
+}
+.footer-item ul {
+  padding: 0;
+}
+
+
+.footer-item a {
+  text-decoration: none;
+}
+
+.footer-container {
+  background-color: rgb(243, 242, 242);
+  padding: 80px;
+}
+
+.footer-container-disclaimer{
+  color: rgb(124, 124, 124);
+  padding-bottom: 15px;
+}

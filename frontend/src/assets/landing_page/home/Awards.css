@@ -1,0 +1,21 @@
+.awards-container {
+  display: flex;
+  justify-content: center;
+  width: 400px;
+  height: 300px;
+  padding: 20px 100px;
+}
+
+.awards-list-options{
+  margin-top: 25px;
+}
+
+.awards-list-options li{
+  margin-top: 12px;
+}
+
+.press-container img {
+  width: 80%;
+  height: 80%;
+  margin-top: 15px;
+}

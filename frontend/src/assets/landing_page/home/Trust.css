@@ -1,0 +1,15 @@
+.ecosystem-image{
+  height: 80%;
+  width: 80%;
+}
+
+.ecosystem-anchors{
+  justify-content: center;
+  gap: 50px;
+  padding-right: 90px;
+  
+}
+
+.ecosystem-anchors a{
+    text-decoration: none;
+}
